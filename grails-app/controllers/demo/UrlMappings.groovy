@@ -1,4 +1,4 @@
-package grails.spring.security.ajax
+package demo
 
 class UrlMappings {
 

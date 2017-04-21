@@ -1,4 +1,4 @@
-package grails.spring.security.ajax
+package demo
 
 import grails.boot.GrailsApp
 import grails.boot.config.GrailsAutoConfiguration
