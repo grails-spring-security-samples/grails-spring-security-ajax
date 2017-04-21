@@ -11,5 +11,6 @@
 *= require grails
 *= require main
 *= require mobile
+*= require jqModal
 *= require_self
 */
